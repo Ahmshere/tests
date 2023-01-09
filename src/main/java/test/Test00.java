@@ -76,7 +76,7 @@ public void rutrackerTest01(){
 @Test
     public void rutrackerSearch(){
         String user = "Ahmshere";
-        String pwd = "h4unc";
+        String pwd = "";
         RuTrackerPage ruTrackerPage = new RuTrackerPage();
 
         int resultSearch = ruTrackerPage.mainLogin(user, pwd).mainSearch("Bad Boys");
