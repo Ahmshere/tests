@@ -1,0 +1,1 @@
+{"uuid":"26e5c173-2e31-4b88-b3c8-a59ec2a6d90e","name":"test.JDI_Test","children":["1f2d1837-db7f-4091-a354-27b98c8ae69e"],"befores":[{"name":"initServices","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1672577358797,"stop":1672577359534}],"afters":[],"links":[],"start":1672577358767,"stop":1672577359836}
